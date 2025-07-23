@@ -31,7 +31,7 @@
 
 ## 📫 Контакты
 
-- Email: david@example.com *(замени на свой)*  
+- Email: (Скоро будет)
 - Telegram: [@davidmadridov](https://t.me/davidmadridov)  
 - GitHub: [davidmadridov](https://github.com/davidmadridov)
 
