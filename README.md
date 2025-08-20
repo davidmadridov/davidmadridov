@@ -17,7 +17,7 @@ Unity-разработчик и программист.
 
 ## 🔧 Навыки
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,html,css,js,react,git" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,html,css,js,git,github,telegram,discord,vk" height="50" />
 </p>
 
 ---
