@@ -91,6 +91,6 @@ Unity-разработчик и программист.
 ---
 
 <!-- Футер -->
-<p align="center">
+<p align="center">🎮 Game Over? Нет! Это только начало... 🚀</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=footer"/>
 </p>
