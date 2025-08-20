@@ -92,6 +92,7 @@ Unity-разработчик и программист.
 
 <!-- Футер -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer&text=🎮+Game+Over?+Нет!+Это+только+начало...+🚀&fontSize=20&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=180&section=footer&text=🎮+Game+Over?+Нет!+Это+только+начало...+🚀&fontSize=28&fontColor=ffffff&fontAlignY=60" />
 </p>
+
 
