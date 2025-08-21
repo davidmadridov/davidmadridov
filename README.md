@@ -83,7 +83,7 @@ Unity-разработчик и программист.
 ---
 
 ## 📫 Контакты
-- Telegram: [@davidmadridov](https://t.me/davidmadridov)  
+- Telegram: [@madridov](https://t.me/madridov)  
 - GitHub: [davidmadridov](https://github.com/davidmadridov)  
 
 ---
